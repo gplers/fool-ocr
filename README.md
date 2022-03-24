@@ -1,2 +1,2 @@
-# fool-ocr
+# OCR 工作空间
 在 OCR 领域的探索记录
